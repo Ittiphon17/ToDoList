@@ -48,7 +48,7 @@ public class Form1 extends JFrame implements ActionListener {
             e.printStackTrace();
         }
 
-        // วิธกูเอง
+        // วิธีกูเอง
 
         // M = new JLabel();
         // M.setIcon(new ImageIcon("Image/2.png"));
