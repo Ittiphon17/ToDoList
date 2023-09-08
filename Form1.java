@@ -7,7 +7,6 @@ import java.io.IOException;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-
 public class Form1 extends JFrame implements ActionListener {
 
     public Container cp;
